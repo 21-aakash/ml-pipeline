@@ -1,10 +1,3 @@
-Perfect — going fully open-source is a solid choice for cost-efficiency, flexibility, and real-world production-readiness.
-
-Here's your **updated system stack**:
-
----
-
-### ✅ Real-Time Fraud Detection ML System (Open Source Stack)
 
 #### 📦 **Infrastructure & Containers**
 
@@ -101,17 +94,8 @@ fraud-system/
     └── github_workflows/
 ```
 
----
 
-Would you like:
-
-1. A working docker-compose or podman-compose setup with Kafka, Prometheus, Grafana, MLflow?
-2. Or start with the **simulated data generation + Kafka producer** first?
-
-Let’s build this system one milestone at a time 🚀
-
-
-eature pipelines (real-time + batch + labels)
+feature pipelines (real-time + batch + labels)
 
 Training pipeline (automated retraining)
 
